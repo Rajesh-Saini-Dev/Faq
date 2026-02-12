@@ -1,19 +1,19 @@
 A dynamic and interactive FAQ (Frequently Asked Questions) application built using React. The app allows users to expand and collapse answers smoothly, making information easy to read and well-organized.
 
-Features:
-*Expand / Collapse FAQ items
-*Built with functional components
-*Uses React Hooks (useState)
-*Responsive design
+Features:<br>
+*Expand / Collapse FAQ items<br>
+*Built with functional components<br>
+*Uses React Hooks (useState)<br>
+*Responsive design<br>
 
-Tech Stack:
-*React/Vite
-*JavaScript (ES6+)
-*Tailwind CSS
+Tech Stack:<br>
+*React/Vite<br>
+*JavaScript (ES6+)<br>
+*Tailwind CSS<br>
  
-Learning Outcomes:
-*Managing UI state in React
-*Conditional rendering
+Learning Outcomes:<br>
+*Managing UI state in React<br>
+*Conditional rendering<br>
 
-Author:Rajesh
+Author:Rajesh<br>
 Frontend Developer (React)
